@@ -1,1 +1,0 @@
-/mnt/user-data/outputs/lumik/app/page.tsx
